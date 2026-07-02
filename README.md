@@ -116,7 +116,7 @@ The app has **17 screens**
 
 I structured the app in 3 layers so that each part has a clear job and doesn't mix with the others:
 
-![Architecture ](images/Architecture.png)
+![Architecture ](images/Architecture2.png)
 
 
 - **Services** are stateless — they just do one thing (talk to Firebase, talk to SQLite, call the weather API) and return a result
@@ -157,7 +157,7 @@ All data is stored locally in a single SQLite file called `farmbuddy.db`.
 Navigation is done with `go_router`. I chose this over plain Navigator because it lets you define all routes in one place and the auth guard is much cleaner — just one `redirect` function instead of wrapping every screen.
 
 
-![Navigation flow ](images/Navigation Flow.png)
+![Navigation flow ](images/flow.png)
 
 ## 9. Criterias
 
@@ -263,11 +263,11 @@ The auth guard is a `redirect` callback on the router. Every time any navigation
 
 Some of the screens 
  
-![Dashboard](images/Dashboard.png)
-![Diary](images/Diary.png)
-![Plots](images/Plots.png)
-![Calendar](images/Calendar.png)
-![Profile](images/Profile.png)
+![Dashboard](images/Dashboard.jpeg)
+![Diary](images/Diary.jpeg)
+![Plots](images/Plots.jpeg)
+![Calendar](images/Calendar.jpeg)
+![Profile](images/Profile.jpeg)
 
 
 
