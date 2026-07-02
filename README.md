@@ -320,8 +320,7 @@ There are several things I would improve if I had more time or if this app were 
 
 **Crop icons are placeholders** — the crop cards use generic Material icons because creating custom icons for each crop type would have taken too long. This is something that would make the UI much better visually.
 
-**AI disease detection** -  A future version could analyze crop photos using a machine learning model (TensorFlow Lite on-device or Plant.id API) to automatically detect diseases or nutrient deficiencies from growth log photos. This would make the app significantly more useful for beginner farmers who don't know what a sick plant looks like. |
---- 
+**AI disease detection** -  A future version could analyze crop photos using a machine learning model (TensorFlow Lite on-device or Plant.id API) to automatically detect diseases or nutrient deficiencies from growth log photos. This would make the app significantly more useful for beginner farmers who don't know what a sick plant looks like.
 
 ## Setup
 
