@@ -261,18 +261,6 @@ The auth guard is a `redirect` callback on the router. Every time any navigation
 
 17 screens total. 
 
-Some of the screens 
- 
-![Dashboard](images/Dashboard.jpeg)
-![Diary](images/Diary.jpeg)
-![Plots](images/Plots.jpeg)
-![Calendar](images/Calendar.jpeg)
-![Profile](images/Profile.jpeg)
-
-
-
-
-
 ---
 
 ### Innovation aspect 
